@@ -1,0 +1,2 @@
+1.Open GCI-App
+2.Run GCI-1
